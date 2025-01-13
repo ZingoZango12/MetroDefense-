@@ -73,10 +73,11 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Assets
-Content/Frank_Slash_Pack
+# Content
+Config
 Content/Characters
 Content/FPS_Weapon_Bundle
+Content/Frank_Slash_Pack
 Content/LevelPrototyping
 Content/Metro_station
 Content/MilitaryWeapSilver
